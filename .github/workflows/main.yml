@@ -1,0 +1,12 @@
+            - name: Telegram Bot Server
+  # You may pin to the exact commit or the version.
+  # uses: zjns/telegram-bot-server@f85ceb537c1ed3d8eb2c15e8be6157d4e85e48bb
+  uses: zjns/telegram-bot-server@v1
+  with:
+    # Telegram api_id
+    api_id: 
+    # Telegram api_hash
+    api_hash: 
+    # Local server port to deploy
+    server-port: # optional, default is 8088
+          
